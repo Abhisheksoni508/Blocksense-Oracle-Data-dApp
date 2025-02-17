@@ -1,7 +1,5 @@
 # Blocksense-Oracle-Data-dApp
 
-# Blocksense-Oracle-Data-dApp
-
 **Blocksense Oracle Data dApp**
 
 ## Project Overview
