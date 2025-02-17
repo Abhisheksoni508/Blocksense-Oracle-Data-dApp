@@ -16,20 +16,29 @@ The project's directory structure is organized as follows:
 
 ```
 blocksense-dapp/
+├── contracts/
+│   ├── BlocksenseConsumer.sol
+│   └── Lock.sol
+├── ignition/
+│   ├── modules/
+│   │   └── Lock.js
+│   └── ...
 ├── node_modules/
-├── package.json
-├── package-lock.json
+├── public/
 ├── src/
 │   ├── components/
 │   └── ...
-└── contracts/
-    └── ...
+├── test/
+├── hardhat.config.js
+├── package.json
+├── package-lock.json
+└── README.md
 ```
 
 ## Codebase
 **GitHub Repository:**
 
-- EncodeLondon Hackathon Repository: [https://github.com/blocksense-network/EncodeLondon_Hackathon](https://github.com/blocksense-network/EncodeLondon_Hackathon)
+- Blocksense Oracle Data dApp Repository: [https://github.com/Abhisheksoni508/Blocksense-Oracle-Data-dApp](https://github.com/Abhisheksoni508/Blocksense-Oracle-Data-dApp)
 
 ## README Overview
 The README file contains a comprehensive overview of the project, including:
